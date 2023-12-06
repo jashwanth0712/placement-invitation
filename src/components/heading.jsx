@@ -32,6 +32,10 @@ function Heading (){
               <FontAwesomeIcon className="mr-2" />
               Job notification form
             </a>
+            <a  target="_blank" rel="noopener noreferrer" className="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded mb-4 md:mb-0 md:mr-4 w-full md:w-auto flex items-center justify-center" href="https://drive.google.com/drive/folders/1fi4iSf9K_EYxzge_6eDTuti2FZjeeXCi">
+              <FontAwesomeIcon className="mr-2" />
+              Placement Brochure
+            </a>
           </div>
         </div>
     )
