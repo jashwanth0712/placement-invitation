@@ -19,13 +19,18 @@ function Heading (){
               <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
               Placement Cell Mail
             </a>
+           
             <a href="https://www.iiitdm.ac.in/" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded mb-4 md:mb-0 md:mr-4 w-full md:w-auto flex items-center justify-center">
               <FontAwesomeIcon icon={faGlobe} className="mr-2" />
               Institute Website
             </a>
-            <a href="https://www.linkedin.com/company/training-and-placement-cell-iiitdm-kancheepuram/" target="_blank" rel="noopener noreferrer" className="bg-gray-500 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded w-full md:w-auto flex items-center justify-center">
+            <a href="https://www.linkedin.com/company/training-and-placement-cell-iiitdm-kancheepuram/" target="_blank" rel="noopener noreferrer" className="bg-gray-500 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded mb-4 md:mb-0 w-full md:w-auto flex items-center justify-center">
               <FontAwesomeIcon className="mr-2" />
               LinkedIn
+            </a>
+            <a  target="_blank" rel="noopener noreferrer" className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded mb-4 md:mb-0 md:mr-4 w-full md:w-auto flex items-center justify-center" href="https://docs.google.com/document/d/1c3mJcR5ze5-lAQx-UEk7_mHwiy1bAzly/edit?rtpof=true&sd=true">
+              <FontAwesomeIcon className="mr-2" />
+              Job notification form
             </a>
           </div>
         </div>
